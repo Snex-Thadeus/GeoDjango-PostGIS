@@ -1,0 +1,8 @@
+asgiref==3.5.2
+backports.zoneinfo==0.2.1
+Django==4.1.2
+django-leaflet==0.28.3
+GDAL @ file:///D:/My%20Coding%20Projects/Python/GIS%20DJANGO/Tutorial%203/src/GDAL-3.4.3-cp38-cp38-win_amd64.whl
+psycopg2==2.9.4
+sqlparse==0.4.3
+tzdata==2022.4
