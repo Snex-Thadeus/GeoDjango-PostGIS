@@ -96,10 +96,10 @@ WSGI_APPLICATION = 'agricom.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'MOVIEAPI',
+        'NAME': '****',
         'USER':'postgres',
         'HOST': 'localhost',
-        'PASSWORD': '0101',
+        'PASSWORD': '****',
         'PORT': '5432',
     }
 }
